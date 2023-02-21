@@ -1,0 +1,36 @@
+nav{
+   height: 40px;
+   
+}
+#lo{
+    display: block;
+    margin: 0px 700px;
+    margin-top: 20px;
+}
+#title{
+    text-align: center;
+    color: #00b390;
+}
+nav li{
+    display: inline;
+    font: 19px 0px;
+}
+ul{
+    display: inline;
+    background-color: #ababab;
+    float: right;
+}
+.text{
+    color: #747474;
+    font-style: roboto;
+    padding: 10px;
+    margin: 3px 0px;
+}
+.love:hover .dropdown-content {
+    display: block;
+  }
+  
+
+.dropdown-content {
+    display: none;
+}

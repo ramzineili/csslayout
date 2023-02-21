@@ -1,0 +1,115 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,300&display=swap');
+
+#firstimage{
+    display: block;
+    height: 33px;
+    width: 268px;
+}
+#ok{
+    display: inline-flex;
+    margin-left: 1150px;
+    margin-top: 0px;
+    list-style: none;
+    
+ }
+ #lo{
+     margin: 0px 700px;
+     margin-top: 20px;
+ }
+ #title{
+     text-align: center;
+     color: #00b390;
+ }
+ .text{
+     color: #747474;
+     font-style: roboto;
+     padding: 10px;
+     margin: 3px 0px;
+ }
+ .love:hover .dropdown-content {
+     display: block;
+     list-style: none;
+     cursor: pointer;
+   }
+ .dropdown-content {
+     display: none;
+ }
+#first {
+    color: white;
+    background-color: #00ccb1;
+    width: 300px;
+    border: 15px solid #00ccb1 ;
+    padding: 50px;
+    margin: 20px;
+}
+#second {
+    color: white;
+    background-color: #3d83df;
+    width: 300px;
+    border: 15px solid #3d83df ;
+    padding: 50px;
+    margin: 20px;
+}
+#third {
+    color: white;
+    background-color: #1b2734;
+    width: 300px;
+    border: 15px solid #1b2734 ;
+    padding: 50px;
+    margin: 20px; 
+}
+.all {
+    display: flex;
+}
+#lol {
+    color: #00b39b;
+    font-size: 30px;
+}
+#abc {
+    background-color: #8dbbf8;
+    width: px;
+    border: 10px solid #8dbbf8 ;
+    padding: 50px;
+    margin: 25px 50px 25px 50px;
+}
+#okk {  
+    color: #00b390;
+    font-style: italic;
+}
+#okkk {
+    color: #313030;
+    font-style: inherit;
+}
+#title2 {
+    display: flex;
+    justify-content: center;
+color: #00b390;
+font-size: 30px;
+}
+#ktiba {
+    display: flex;
+    justify-content: center;
+    color: #747474;
+
+}
+#tsawer {
+    margin-left: 250px;
+    justify-content: center;
+    justify-items: center;
+    gap: 50px;
+
+}
+#last {
+    color: #333;
+    display: flex;
+    justify-content: center;
+
+
+}
+#lasttt{
+    display: flex;
+    justify-content: center;
+    color: #747474;
+    margin: 100px;
+}
